@@ -15,7 +15,7 @@
 1. ### *Create an account metamask*
     1. Install **Metamask** as Google Chrome Extension
     2. Create an account.
-2. ### *Get the etherium test* 
+2. ### *Get the ethereum test* 
     1. Go to https://faucet.rinkeby.io/?fbclid=IwAR0cRnpQK33X6jjW8SpmRLK_DZtuE45F0aG-iRyCk9BCOf0N5h-Z8848vXk
     2. Request Ether by sharing your ethereum address in social media ``` Twitter ``` or ```Facebook```
 3. ### **`USE IN THE WEB`**
@@ -23,6 +23,7 @@
     ![image dashboard](./md/img1.png)
         <br/><br/>
         Metamask open
+
         ![image metamask](./md/img2.png)
 
         Enter your password and dashboard show
