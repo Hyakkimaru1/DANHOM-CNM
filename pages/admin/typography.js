@@ -21,6 +21,15 @@ const styles = {
     marginBottom: "40px",
     position: "relative",
   },
+ 
+  cardCategoryWhite: {
+    color: "rgba(255,255,255,.62)",
+    margin: "0",
+    fontSize: "14px",
+    marginTop: "0",
+    marginBottom: "0",
+  },
+
   note: {
     fontFamily: '"Roboto", "Helvetica", "Arial", sans-serif',
     bottom: "10px",
@@ -34,13 +43,8 @@ const styles = {
     position: "absolute",
     width: "260px",
   },
-  cardCategoryWhite: {
-    color: "rgba(255,255,255,.62)",
-    margin: "0",
-    fontSize: "14px",
-    marginTop: "0",
-    marginBottom: "0",
-  },
+
+  
   cardTitleWhite: {
     color: "#FFFFFF",
     marginTop: "0px",
