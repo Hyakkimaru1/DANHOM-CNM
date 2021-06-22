@@ -1,10 +1,13 @@
 import React, { useState, useEffect } from "react";
+
 // @material-ui/core components
 import { makeStyles } from "@material-ui/core/styles";
 import useWindowSize from "components/Hooks/useWindowSize.js";
 import Hidden from "@material-ui/core/Hidden";
+
 // @material-ui/icons
 import AddIcon from '@material-ui/icons/Add';
+
 // core components
 import Button from "components/CustomButtons/Button.js";
 
