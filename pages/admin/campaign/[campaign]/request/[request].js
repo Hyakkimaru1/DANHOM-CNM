@@ -52,14 +52,6 @@ const CampaignPage = ({ summary }) => {
     setOpen(true);
   };
 
-  const handleClose = (event, reason) => {
-    if (reason === 'clickaway') {
-      return;
-    }
-
-    setOpen(false);
-  };
-
   const handleSubmit = async event => {
     if (refInput.current.value!==""){
       event.preventDefault();
@@ -84,6 +76,16 @@ const CampaignPage = ({ summary }) => {
       handleClick();
     }
   }
+
+  const handleClose = (event, reason) => {
+    if (reason === 'clickaway') {
+      return;
+    }
+
+    setOpen(false);
+  };
+
+ 
 
   return summary ? (
     <div>

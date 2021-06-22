@@ -31,6 +31,7 @@ const styles = {
       color: "#FFFFFF",
     },
   },
+  
   cardTitleWhite: {
     color: "#FFFFFF",
     marginTop: "0px",
