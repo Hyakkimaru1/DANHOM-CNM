@@ -1,4 +1,4 @@
-# CROWN FUNDING (DANHOM-CNM)
+# CROWDFUNDING (DANHOM-CNM)
 *Trusted Crowdfunding Platform Using a Smart Contract*
 
 <br/>
